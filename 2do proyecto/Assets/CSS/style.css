@@ -1,0 +1,17 @@
+body {
+    background-color : #a2b1c1; 
+    color : #ffffff; 
+}
+
+.container {
+    background-color : #a2b1c1; 
+    color : #000000; 
+}
+
+
+.text-primary {
+    color : #17a2b8; 
+}
+#btnUpdate{
+    display : none;
+}
